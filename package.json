@@ -1,0 +1,15 @@
+{
+  "name": "susanwoodhouse.github.io",
+  "version": "1.0.0",
+  "description": "techo \"# SusanWoodhouse.github.io\" >> README.md git init git add README.md git commit -m \"first commit\" git branch -M main git remote add origin https://github.com/SusanWoodhouse/SusanWoodhouse.github.io.git git push -u origin main git README.MD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
