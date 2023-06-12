@@ -13,7 +13,7 @@
  div{
  background: url(100px-height-3x4-ratio.svg);
  background-size: auto auto;
-{;
+};
   
 # Hello Friends, Susan Woodhouse here!
 
