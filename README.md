@@ -5,11 +5,18 @@
      <meta charset ="UTF-8">
      <meta name= "viewport">
   </head>
-  <img src= "https://github.com/SusanWoodhouse/SusanWoodhouse.github.io/assets/7242176/ab746115-23d2-4e45-97d4-8e98c61252c5"
- img {
-  width: 50%,
-  height: auto
+  <style>
+.background {
+  background-image:<img src= "https://github.com/SusanWoodhouse/SusanWoodhouse.github.io/assets/7242176/ab746115-23d2-4e45-97d4-8e98c61252c5">;
+  background-size: 150px;
+  width: 100px;
+  height: 125px;
+  border: solid 2px red;
 }
+</style>
+
+<div class="background">
+</div>
  
 # Hello Friends, Susan Woodhouse here!
 
