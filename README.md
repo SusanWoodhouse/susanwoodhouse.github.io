@@ -7,17 +7,17 @@
   </head>
   <img src= "https://github.com/SusanWoodhouse/SusanWoodhouse.github.io/assets/7242176/ab746115-23d2-4e45-97d4-8e98c61252c5"
  img {
-  width: 400px,
+  width: 100px,
   height: auto
 }
  
-# Hello Friends! Susan Woodhouse here
+# Hello Friends, Susan Woodhouse here!
 
 Welcome to my corner of the internet. I'm so glad you dropped by! Here, you will find details about my professional background and personal interests. Whether you are an employer, colleague, or just curious to know more about me, feel free to explore my profile and reach out to me whenever you like.
 
 ## Table of Contents
 
-<ul style="list-style:circle"> <li>
+<li> <ul style="list-style:circle">
 About Me<br/>
 Skills<br/>
 Let's connect<br/>
