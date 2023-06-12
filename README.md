@@ -7,6 +7,8 @@
  <h1>
 <img src="https://github.com/SusanWoodhouse/SusanWoodhouse.github.io/assets/7242176/f1af7605-3170-4e6c-ab6b-9e447e8581df"</h1>
   <div style="width:12px; height:12px;"></div>
+background: url(no-dimensions-or-ratio.svg);
+background-size: contain;
 </h1>
   </head> 
   
