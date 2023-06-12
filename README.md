@@ -6,11 +6,8 @@
      <meta name= "viewport">
     </head>
     
-    <https://github.com/SusanWoodhouse/SusanWoodhouse.github.io/assets/7242176/5300c440-7e9e-463a-aa09-90dcfea8e761>
-
-<div class="background">
-</div>
- 
+    <img src="https://github.com/SusanWoodhouse/SusanWoodhouse.github.io/assets/7242176/5300c440-7e9e-463a-aa09-90dcfea8e761" width ="100" height"auto">
+      
 # Hello Friends, Susan Woodhouse here!
 
 Welcome to my corner of the internet. I'm so glad you dropped by! Here, you will find details about my professional background and personal interests. Whether you are an employer, colleague, or just curious to know more about me, feel free to explore my profile and reach out to me whenever you like.
