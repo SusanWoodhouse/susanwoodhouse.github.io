@@ -6,7 +6,8 @@
      <meta name= "viewport">
     </head>
     
-    <img src="https://github.com/SusanWoodhouse/SusanWoodhouse.github.io/assets/7242176/5300c440-7e9e-463a-aa09-90dcfea8e761" width ="100" height"auto">
+<img src="https://github.com/SusanWoodhouse/SusanWodhouse.github.io/!"https://github.com/SusanWoodhouse/SusanWoodhouse.github.io/assets/7242176/dca96535-c297-4ca7-a4fa-65d80c85b34f"
+width ="100" height"auto">
       
 # Hello Friends, Susan Woodhouse here!
 
