@@ -1,15 +1,19 @@
 # SusanWoodhouse.github.io
 <!DOCTYPE html>
 <html lang="en">
+</style>
   <head>
      <meta charset ="UTF-8">
      <meta name= "viewport">
   </head>
-  <body></body>
+<img src="html5.gif" alt="HTML5 Icon" width="128" height="128">
+<img src="html5.gif" alt="HTML5 Icon" style="width:128px;height:128px;">
+  <body>
   <link rel=stylesheet"
   href="style.css">
+                  
 Welcome to my corner of the internet. I'm so glad you dropped by! Here, you will find details about my professional background and personal interests. Whether you are an employer, colleague, or just curious to know more about me, feel free to explore my profile and reach out to me whenever you like.
-
+ 
 # ![HelloMyNameIs](https://github.com/SusanWoodhouse/SusanWoodhouse.github.io/assets/7242176/ab746115-23d2-4e45-97d4-8e98c61252c5)
 
 # Hello Friends! I'm Susan Woodhouse
@@ -20,7 +24,7 @@ Welcome to my corner of the internet. I'm so glad you dropped by! Here, you will
 
 [About me](#about-me)
 [Skills](#skills)
-[Let's Connect](#lets-connect)
+[Let's connect](#let's-connect)
 [License](#license)
 
 ## About Me
@@ -67,4 +71,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 [label](https://www.linkedin.com/in/susan-woodhouse-16860a21b/)
+</body>
+</html>                                
 </html>
