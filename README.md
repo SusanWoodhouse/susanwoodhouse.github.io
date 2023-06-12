@@ -29,7 +29,7 @@ I am excited to fully immerse myself in the sandbox of new technologies and tool
 
 ## Skills
 
-I have a versatile and well rounded set of developer skills that are increasing daily which inlcude the following:
+I have a versatile and well rounded set of developer skills that are increasing daily which incude the following:
 
 - Languages: JavaScript, json
 - Front-End: HTML, CSS, JavaScript,
