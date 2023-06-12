@@ -10,6 +10,9 @@
   <img src="https://github.com/SusanWoodhouse/SusanWoodhouse.github.io/assets/7242176/f1af7605-3170-4e6c-ab6b-9e447e8581df"</h1>
   <div style="width:12px; height:12px;"></div>
 </h1>
+ background: url(100px-height-3x4-ratio.svg);
+ background-size: auto auto;
+
   
 # Hello Friends, Susan Woodhouse here!
 
