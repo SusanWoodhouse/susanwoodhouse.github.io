@@ -27,7 +27,7 @@ Welcome to my corner of the internet. I'm so glad you dropped by! Here, you will
 
 ## About Me
 
-I am excited to fully immerse myself in the sandbox of new technologies and tools, despite having worked in administrative support roles and not as a developer for over 20 years. With my recent ADHD/VAST neurodivergence diagnosis, I believe I have a unique perspective to offer and am equipped with new tools to unleash my superpowers. I firmly believe that diversity is key to innovation, and I am eager to be a part of a team that values and embraces differences. By bringing together diverse perspectives and experiences, we can create truly innovative solutions that make a positive impact on the world. I am looking forward to celebrating our differences and working collaboratively to make magic happen. Let's achieve great things together in the tech industry! Full-Stack Developer Certification Spring 2024
+I'm excited to fully immerse myself in the sandbox of new technologies and tools, despite having worked in administrative support roles and not as a developer for the past 20 years. I believe that bringing together creative and traditional experiences can lead to truly innovative solutions that make a positive impact on the world. I'm looking forward to working collaboratively to achieve great things in the tech industry. By Spring 2024, I'm aiming to earn my Full-Stack Developer Certification.
 
 ## Skills
 
