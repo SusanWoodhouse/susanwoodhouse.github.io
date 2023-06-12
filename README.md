@@ -4,11 +4,12 @@
   <head>
      <meta charset ="UTF-8">
      <meta name= "viewport">
-    </head>
-    
-<img src="https://github.com/SusanWoodhouse/SusanWodhouse.github.io/!"https://github.com/SusanWoodhouse/SusanWoodhouse.github.io/assets/7242176/dca96535-c297-4ca7-a4fa-65d80c85b34f"
-width ="100" height"auto">
-      
+    <h1>The img element</h1>
+
+<img src=![HelloMyNameIs](https://github.com/SusanWoodhouse/SusanWoodhouse.github.io/assets/7242176/f1af7605-3170-4e6c-ab6b-9e447e8581df width="100" height="auto">
+
+</head>
+  
 # Hello Friends, Susan Woodhouse here!
 
 Welcome to my corner of the internet. I'm so glad you dropped by! Here, you will find details about my professional background and personal interests. Whether you are an employer, colleague, or just curious to know more about me, feel free to explore my profile and reach out to me whenever you like.
