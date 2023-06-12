@@ -7,7 +7,7 @@
   </head>
   <img src= "https://github.com/SusanWoodhouse/SusanWoodhouse.github.io/assets/7242176/ab746115-23d2-4e45-97d4-8e98c61252c5"
  img {
-  width: 100px,
+  width: 50%,
   height: auto
 }
  
@@ -17,12 +17,13 @@ Welcome to my corner of the internet. I'm so glad you dropped by! Here, you will
 
 ## Table of Contents
 
-<li> <ul style="list-style:circle">
-About Me<br/>
-Skills<br/>
-Let's connect<br/>
-License<br/>
-</li>
+<ul style="list-style:circle">
+<ul>                                        
+<li>About Me</li><br/>
+<li>Skills</li><br/>
+<li>Let's connect</li><br/>
+<li>License</li><br/>
+</ul>
 
 ## About Me
 
