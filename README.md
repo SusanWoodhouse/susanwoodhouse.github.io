@@ -6,7 +6,7 @@
      <meta name= "viewport">
  <h1>
 <img src="https://github.com/SusanWoodhouse/SusanWoodhouse.github.io/assets/7242176/f1af7605-3170-4e6c-ab6b-9e447e8581df"</h1>
-<div style="width:50px; height:50px;"></div>
+<div style="width:25px; height:25px;"></div>
   </head> 
   
 # Hello Friends, Susan Woodhouse here!
