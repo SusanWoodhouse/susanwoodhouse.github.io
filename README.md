@@ -6,9 +6,11 @@
      <meta name= "viewport">
     <h1>The img element</h1>
 
-<img src="https://github.com/SusanWoodhouse/SusanWoodhouse.github.io/assets/7242176/f1af7605-3170-4e6c-ab6b-9e447e8581df" width=150 height=300>
-
-</head>
+div {
+    background: url(<img src="https://github.com/SusanWoodhouse/SusanWoodhouse.github.io/assets/7242176/f1af7605-3170-4e6c-ab6b-9e447e8581df" width=150 height=300>) no-repeat;
+    background-size: 200px;
+}
+   </head> 
   
 # Hello Friends, Susan Woodhouse here!
 
