@@ -4,16 +4,9 @@
   <head>
      <meta charset ="UTF-8">
      <meta name= "viewport">
-  </head>
-  <style>
-.background {
-  background-image:<img src= "https://github.com/SusanWoodhouse/SusanWoodhouse.github.io/assets/7242176/ab746115-23d2-4e45-97d4-8e98c61252c5">;
-  background-size: 150px;
-  width: 100px;
-  height: 125px;
-  border: solid 2px red;
-}
-</style>
+    </head>
+    
+    <!"https://github.com/SusanWoodhouse/SusanWoodhouse.github.io/assets/7242176/5300c440-7e9e-463a-aa09-90dcfea8e761>;
 
 <div class="background">
 </div>
