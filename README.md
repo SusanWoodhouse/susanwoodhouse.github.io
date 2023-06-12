@@ -10,10 +10,8 @@
   width: 400px,
   height: auto
 }
-               
-Welcome to my corner of the internet. I'm so glad you dropped by! Here, you will find details about my professional background and personal interests. Whether you are an employer, colleague, or just curious to know more about me, feel free to explore my profile and reach out to me whenever you like.
  
-# Hello Friends! I'm Susan Woodhouse
+# Hello Friends! Susan Woodhouse here
 
 Welcome to my corner of the internet. I'm so glad you dropped by! Here, you will find details about my professional background and personal interests. Whether you are an employer, colleague, or just curious to know more about me, feel free to explore my profile and reach out to me whenever you like.
 
@@ -24,6 +22,7 @@ About Me<br/>
 Skills<br/>
 Let's connect<br/>
 License<br/>
+</li>
 
 ## About Me
 
