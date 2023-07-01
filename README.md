@@ -6,10 +6,10 @@
      <meta name= "viewport">
   </head>
  
-  <h5>
-  <img src="https://github.com/SusanWoodhouse/SusanWoodhouse.github.io/assets/7242176/f1af7605-3170-4e6c-ab6b-9e447e8581df"</h5>
+  <h1>
+  <img src=</h5>
   <div style="width:12px; height:12px;"></div>
-</h5>
+</h1>
   
 # Hello Friends, Susan Woodhouse here!
 
