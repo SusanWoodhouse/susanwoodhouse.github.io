@@ -7,7 +7,7 @@
   </head>
  
   <h1> 
-  <img src="https://github.com/SusanWoodhouse/SusanWoodhouse.github.io#:~:text="Hello_My_Name_Is.png" width"100 px" height"150 px;">
+  <img src="https://Hello_My_Name_Is.png" width"100 px" height"150 px;">
   </h1>
   
 # Hello Friends, Susan Woodhouse here!
