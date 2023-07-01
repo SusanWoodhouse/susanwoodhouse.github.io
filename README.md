@@ -44,7 +44,7 @@ I have a versatile and well-rounded set of developer skills that are increasing 
 
 ## Let's Connect
 
-LinkedIn: https://www.linkedin.com/in/susan-woodhouse-16860a21b/ <br/>
+LinkedIn: https://img.shields.io/badge/susan-woodhouse-16860a21b/style=for-the-badge&logo=linkedin&logoColor=white<br/>
   Email: susanwoodhouse01@gmail.com
 Youtube: https://www.youtube.com/@SusanWoodhouse
 
