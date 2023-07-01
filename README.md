@@ -4,9 +4,8 @@
     <head>
  <meta charset="UTF-8">
  <meta name="viewport" content="width=device-width, initial-scale=1.0">    
- <img src="https://github.com/SusanWoodhouse/SusanWoodhouse.github.io/blob/14e45946effa14ee251d4e4197f93fb69fe78487/Hello_My_Name_Is.png" class="image" alt="image"> 
-      =WIDTH![](Hello_My_Name_Is =x100) 
-
+ <img src="https://github.com/SusanWoodhouse/SusanWoodhouse.github.io/blob/14e45946effa14ee251d4e4197f93fb69fe78487/Hello_My_Name_Is.png" class="image" alt="image"=WIDTH![](Hello_My_Name_Is =x100)> 
+      
 # Hello Friends, Susan Woodhouse here!
 
 Welcome to my corner of the internet. I'm so glad you dropped by! Here, I have included details about my professional background and personal interests. If you are an employer, colleague, or just curious about me, please explore my profile and contact me whenever you like.
