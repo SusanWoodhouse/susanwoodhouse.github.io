@@ -6,10 +6,9 @@
      <meta name= "viewport">
   </head>
  
-  <h1>
-  <img src=</h5>
-  <div style="width:12px; height:12px;"></div>
-</h1>
+  <h1> 
+  <img src="https://github.com/SusanWoodhouse/SusanWoodhouse.github.io#:~:text="Hello_My_Name_Is.png" width"100 px" height"150 px;">
+  </h1>
   
 # Hello Friends, Susan Woodhouse here!
 
