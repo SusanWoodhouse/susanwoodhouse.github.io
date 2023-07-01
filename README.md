@@ -5,8 +5,8 @@
  <meta charset="UTF-8">
  <meta name="viewport" content="width=device-width, initial-scale=1.0">    
  <style>
-   image{width: 50%;
-      height: auto;} 
+   image{width:50%;
+      height:auto;} 
   </style>
 </head> 
   <img src="https://github.com/SusanWoodhouse/SusanWoodhouse.github.io/blob/14e45946effa14ee251d4e4197f93fb69fe78487/Hello_My_Name_Is.png" class="image" alt="image">  
