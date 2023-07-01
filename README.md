@@ -4,17 +4,15 @@
   <head>
      <meta charset ="UTF-8">
      <meta name= "viewport">
-  </head>
-
- <h1>
   <style>
     .image { 
       width: 50%;
       height: auto;
   }
-     </style>
-     <img src="https://github.com/SusanWoodhouse/SusanWoodhouse.github.io/blob/14e45946effa14ee251d4e4197f93fb69fe78487/Hello_My_Name_Is.png" class="image" alt="image">
- </h1>
+  </style>
+  </head>
+<body>
+    <img src="https://github.com/SusanWoodhouse/SusanWoodhouse.github.io/blob/14e45946effa14ee251d4e4197f93fb69fe78487/Hello_My_Name_Is.png" class="image" alt="image">
   
 # Hello Friends, Susan Woodhouse here!
 
@@ -79,7 +77,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
 </body>
 </html>                                
 
