@@ -6,9 +6,9 @@
      <meta name= "viewport">
   </head>
  
-  <h1> 
+  <h5> 
     <img src="https://github.com/SusanWoodhouse/SusanWoodhouse.github.io/blob/14e45946effa14ee251d4e4197f93fb69fe78487/Hello_My_Name_Is.png" width "200">
-  </h1>
+  </h5>
   
 # Hello Friends, Susan Woodhouse here!
 
