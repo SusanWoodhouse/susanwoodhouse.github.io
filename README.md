@@ -48,7 +48,9 @@ I have a versatile and well-rounded set of developer skills that are increasing 
 )
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white?susanwoodhouse01@gmail.com)
 
-## License
+![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white?www.twitter.com/@SusanWo01260421)
+
+## License?
 
 Copyright (c) [2023] [SusanWoodhouse]
 
