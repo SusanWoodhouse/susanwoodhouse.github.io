@@ -44,14 +44,8 @@ I have a versatile and well-rounded set of developer skills that are increasing 
 
 ## Let's Connect
  
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white?linkedin.com/in/susan-woodhouse-16860a21b
-)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white?susanwoodhouse01@gmail.com)
-
-![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white?twitter.com/@SusanWo01260421)
-
-![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white?youtube.com/@SusanWoodhouse)
-
+[LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white?linkedin.com/in/susan-woodhouse-16860a21b
+)  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white?susanwoodhouse01@gmail.com)   ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white?twitter.com/@SusanWo01260421)  ![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white?youtube.com/@SusanWoodhouse)
 ## License?
 
 Copyright (c) [2023] [SusanWoodhouse]
